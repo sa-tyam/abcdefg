@@ -9,6 +9,7 @@ int main(){
 	cin>>M;
 	cout<<"give values for first array : ";
 	for (i=0;i<M;i++){
+//Done 
 		cin>>T1[i];
 	}
 	cout<<"give number of values in second array : ";
